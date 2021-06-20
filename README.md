@@ -1,4 +1,3 @@
-# you are aple of my life
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -28,7 +27,7 @@
         <nav class="navbar navbar-default navbar-fixed-top" role="navigation" data-anijs="if: mouseover, do: bounceIn animated" style="background-color: #f99ec7 !important;box-shadow: 0 0 2px 0 #acacac;">
             <img class="pull-left" style="display: inline-block !important;margin: 10px 25px 10px 60px" src="images/logo.png" title="">
             <div class="col-xs-8 text-center txt" data-bind="" style="font-family: 'Lobster', cursive;">
-                Ở bên anh là lời tỏ tình lâu dài nhất. Dù già hay ốm, em vẫn sẽ sẵn sàng ở bên anh!
+                Ở bên em là lời tỏ tình lâu dài nhất. Dù già hay ốm, anh vẫn sẽ sẵn sàng ở bên em!
             </div>
         </nav>
         <div class="container-fluid" style="margin-top: 88px">
@@ -87,7 +86,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="timeline-foot">Ngày 21 tháng 06 năm 2021</div>
+                                        <div class="timeline-foot">Ngày ... tháng ... năm 2019</div>
                                     </div>
                                 </div>
                             </li>
@@ -110,7 +109,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="timeline-foot">Ngày 21 tháng 6 năm 2021</div>
+                                        <div class="timeline-foot">Ngày ... tháng ... năm 2019</div>
                                     </div>
                                 </div>
                             </li>
@@ -133,7 +132,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="timeline-foot">Ngày 21 tháng 6 năm 2021</div>
+                                        <div class="timeline-foot">Ngày ... tháng ... năm 2019</div>
                                     </div>
                                 </div>
                             </li>
@@ -179,7 +178,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="timeline-foot">Ngày 21 tháng 6 năm 2021</div>
+                                        <div class="timeline-foot">Ngày ... tháng ... năm 2020</div>
                                     </div>
                                 </div>
                             </li>
@@ -202,7 +201,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="timeline-foot">Ngày 21 tháng 6 năm 2021</div>
+                                        <div class="timeline-foot">Ngày ... tháng ... năm 2020</div>
                                     </div>
                                 </div>
                             </li>
@@ -225,7 +224,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="timeline-foot">Ngày 21 tháng 6 năm 2021</div>
+                                        <div class="timeline-foot">Ngày ... tháng ... năm 2020</div>
                                     </div>
                                 </div>
                             </li>
@@ -248,7 +247,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="timeline-foot">Ngày 21 tháng 6 năm 2021</div>
+                                        <div class="timeline-foot">Ngày ... tháng ... năm 2020</div>
                                     </div>
                                 </div>
                             </li>
@@ -271,7 +270,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="timeline-foot">Ngày 21 tháng 6 năm 2021</div>
+                                        <div class="timeline-foot">Ngày ... tháng ... năm 2020</div>
                                     </div>
                                 </div>
                             </li>
@@ -294,7 +293,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="timeline-foot">Ngày 21 tháng 6 năm 2021</div>
+                                        <div class="timeline-foot">Ngày ... tháng ... năm 2020</div>
                                     </div>
                                 </div>
                             </li>
@@ -317,7 +316,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="timeline-foot">Ngày 21 tháng 6 năm 2021</div>
+                                        <div class="timeline-foot">Ngày ... tháng ... năm 2020</div>
                                     </div>
                                 </div>
                             </li>
@@ -340,7 +339,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="timeline-foot">Ngày 21 tháng 6 năm 2021</div>
+                                        <div class="timeline-foot">Ngày ... tháng ... năm 20xx</div>
                                     </div>
                                 </div>
                             </li>
@@ -356,8 +355,8 @@
             <div class="col-xs-12 text-center " data-anijs="if: scroll,on: window,do: zoomInDown animated, before: $scrollReveal repeat">
                 <span class="col-xs-12" style="font-family: 'Dancing Script', cursive; color: #a81723; font-size: 20px;
                     margin: 15px;padding: 15px;line-height: 33px">
-                Gặp được anh như một gia tài lớn nhất trong cuộc đời em. Em chỉ muốn đi bộ qua những ngọn núi, vượt qua những dòng sông và muốn nhìn thế giới với anh, và em chỉ yêu anh. Em không thể cho anh cả thế giới, nhưng thế giới của em ở đây dành cho anh. Em có thể mượn cuộc sống của anh?<br>
-                Anh có thể mượn cuộc sống của ưm để nói chuyện, chia sẻ những vui buồn cùng nhau. Có thể sẽ không có ai yêu em nhiều hơn anh. Những năm tháng dài sau này, chỉ có anh sẵn sàng đồng hành cùng em. Em muốn trái tim của anh cũng như là trái tim của em, chúng ta sẽ hòa vào nhau, sẽ sống theo nó.<br/>
+                Gặp được em như một gia tài lớn nhất trong cuộc đời anh. Anh chỉ muốn đi bộ qua những ngọn núi, vượt qua những dòng sông và muốn nhìn thế giới với em, và anh chỉ yêu em. Anh không thể cho em cả thế giới, nhưng thế giới của anh ở đây dành cho em. Anh có thể mượn cuộc sống của em?<br>
+                Em có thể mượn cuộc sống của anh để nói chuyện, chia sẻ những vui buồn cùng nhau. Có thể sẽ không có ai yêu em nhiều hơn anh. Những năm tháng dài sau này, chỉ có anh sẵn sàng đồng hành cùng em. Anh  muốn trái tim của anh cũng như là trái tim của em, chúng ta sẽ hòa vào nhau, sẽ sống theo nó.<br/>
                 　</span>
             </div>
         </div>
@@ -368,7 +367,7 @@
         <div class="col-xs-12 text-center " data-anijs="if: scroll,on: window,do: zoomInDown animated, before: $scrollReveal repeat">
             <span class="col-xs-12" style="font-family: 'Dancing Script', cursive; color: #a81723; font-size: 20px;
                 margin: 15px;padding: 15px;line-height: 33px">
-            Chúng ta có một chặng đường dài trong tương lai, con đường ở đâu và cách chúng ta đến, chúng ta không biết gì về nó. Không thành vấn đề, vì em tin rằng chúng ta sẽ tiếp tục bên nhau, cùng nhau vượt qua mọi khó khăn như mọi khi.<br/>
+            Chúng ta có một chặng đường dài trong tương lai, con đường ở đâu và cách chúng ta đến, chúng ta không biết gì về nó. Không thành vấn đề, vì anh tin rằng chúng ta sẽ tiếp tục bên nhau, cùng nhau vượt qua mọi khó khăn như mọi khi.<br/>
             Chúng ta sẽ có tiếng cười, nước mắt, sẽ nhớ, sẽ quên, sẽ có lúc cãi vã và không đồng ý với quan điểm của mỗi người, cũng sẽ giữ ý kiến ​​của riêng mình. Nhưng quan trọng nhất, chúng ta sẽ hỗ trợ lẫn nhau và cùng nhau tiến bộ, mạnh mẽ hơn bao giờ hết.
             　</span>
         </div>
@@ -380,9 +379,13 @@
         <div class="col-xs-12 text-center " data-anijs="if: scroll,on: window,do: zoomInDown animated, before: $scrollReveal repeat">
             <span class="col-xs-12" style="font-family: 'Dancing Script', cursive;color: #a81723; font-size: 20px;
                 margin: 15px;padding: 15px;line-height: 33px">
-            Gặp anh và yêu anh đó là định mệnh đã được sắp đặt cho em. <br>
-            Bất kể thời tiết, thăng trầm trong cuộc sống, yếu hay khỏe, em cũng sẽ đi cùng em. Dù trái đất có ngừng quay và mặt trời ngừng toả sáng, em cũng sẽ thuộc về anh. <br>
+            Gặp em và yêu em đó là định mệnh đã được sắp đặt cho anh. <br>
+            Cuộc sống này là sự hòa hợp giữa bầu trời và mặt đất, anh sẽ che chở em khỏi gió và mưa, cùng em cất vang tiếng hát giai điệu của tình yêu.<br>
+            Anh xin thề sẽ yêu em vô điều kiện, trân trọng em, trái tim anh chỉ có em, chỉ có hai chúng ta, chỉ có gia đình của chúng ta là duy nhất, và nó sẽ không thay đổi<br>
+            Bất kể thời tiết, thăng trầm trong cuộc sống, yếu hay khỏe, anh cũng sẽ đi cùng em. Dù trái đất có ngừng quay và mặt trời ngừng toả sáng, anh cũng sẽ thuộc về em. <br>
             Dẫu cho đến một ngày bước chân của em không còn vững, mái tóc đen đã chuyển màu bạc trắng, khuôn mặt xinh đẹp đã ẩn chứa nhiều nếp nhăn. Anh vẫn sẽ nắm lấy tay em,  cùng em bước đi trong ánh hào quang của hoàng hôn.<br>
+            Anh hứa sẽ luôn thành thật với em. Sẽ không bao giờ khiến em phải buồn.<br/>
+            Anh hứa sẽ là người hỗ trợ em, yêu em, bảo vệ em và xây dựng một ngôi nhà ấm áp với em, một ngôi nhà mà chúng ta có thể tự hào.<br/>
             　</span>
         </div>
         </div>
@@ -393,66 +396,91 @@
         <div class="photopile-wrapper col-xs-12 text-center" data-anijs="if: scroll, on: window, do: rollIn animated, before: $scrollReveal repeat">
             <ul class="photopile col-xs-12">
                 <li>
-                    <a href="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk">
-                    <img src="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk" alt="ảnh kỷ niệm" />
+                    <a href="images/p1.jpg">
+                    <img src="images/p1.jpg" alt="ảnh kỷ niệm" />
                     </a>
                 </li>
                 <li>
-                    <a href="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk">
-                    <img src="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk" alt="ảnh kỷ niệm" />
+                    <a href="images/p2.jpg">
+                    <img src="images/p2.jpg" alt="ảnh kỷ niệm" />
                     </a>
                 </li>
                 <li>
                     <a href="images/p3.jpg">
-                    <img src="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk" alt="ảnh kỷ niệm" />
+                    <img src="images/p3.jpg" alt="ảnh kỷ niệm" />
                     </a>
                 </li>
                 <li>
-                    <a href="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk">
-                    <img src="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk" alt="ảnh kỷ niệm" />
+                    <a href="images/p4.jpg">
+                    <img src="images/p4.jpg" alt="ảnh kỷ niệm" />
                     </a>
                 </li>
                 <li>
-                    <a href="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk">
-                    <img src="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk" alt="ảnh kỷ niệm" />
+                    <a href="images/p5.jpg">
+                    <img src="images/p5.jpg" alt="ảnh kỷ niệm" />
                     </a>
                 </li>
                 <li>
-                    <a href="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk">
-                    <img src="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk" alt="ảnh kỷ niệm" />
+                    <a href="images/p6.jpg">
+                    <img src="images/p6.jpg" alt="ảnh kỷ niệm" />
                     </a>
                 </li>
                 <li>
-                    <a href="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk">
-                    <img src="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk" alt="ảnh kỷ niệm" />
+                    <a href="images/p7.jpg">
+                    <img src="images/p7.jpg" alt="ảnh kỷ niệm" />
                     </a>
                 </li>
                 <li>
-                    <a href="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk">
-                    <img src="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk" alt="ảnh kỷ niệm" />
+                    <a href="images/p8.jpg">
+                    <img src="images/p8.jpg" alt="ảnh kỷ niệm" />
                     </a>
                 </li>
                 <li>
-                    <a href="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk">
-                    <img src="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk" alt="ảnh kỷ niệm" />
+                    <a href="images/p9.jpg">
+                    <img src="images/p9.jpg" alt="ảnh kỷ niệm" />
                     </a>
                 </li>
                 <li>
-                    <a href="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk">
-                    <img src="https://drive.google.com/drive/u/0/folders/121zpj6OZzYtprbNc7GVJcQIQtNUVbKqk" alt="ảnh kỷ niệm" />
+                    <a href="images/p10.jpg">
+                    <img src="images/p10.jpg" alt="ảnh kỷ niệm" />
                     </a>
                 </li>
             </ul>
         </div>
-        <p class="text-center" style="font-size: 10px">Made by Thuongg with <3 </p>
+        <p class="text-center" style="font-size: 10px">Developer by Dược Nv</p>
+
+
+        <link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+        <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+        <script src="public/theme/hoa.js"></script>
+
+
+        <script src="public/js/jquery-1.11.0.min.js" type="text/javascript"></script>
+        <script src="public/js/jquery-ui.min.js"></script>
+        <script src="public/js/jquery.ui.touch-punch.min.js"></script>
+        <script src="public/js/photopile.js"></script>
+        <script type="text/javascript">
+            $(function(){
+                PhotoPile().scatter();
+            });
+        </script>
+        </div>
+        <!-- <audio  src="911.mp3" preload="auto" type="audio/mp3" autoplay loop=""></audio> -->
+        <!-- <audio id="bgmMusic" type="audio/mp3" autoplay loop  id="playAudio">
+            <source src="911.mp3">
+          </audio> -->
         <audio controls autoplay id="playAudio" style="display: none;">
-            <source src="https://www.youtube.com/watch?v=LKbzXBEU-lg" type="audio/mpeg">
+            <source src="911.mp3" type="audio/mpeg">
         </audio>
-        <iframe src="https://www.youtube.com/watch?v=LKbzXBEU-lg" allow="autoplay" style="display:none" id="iframeAudio">
+        <iframe src="audio/911.mp3" allow="autoplay" style="display:none" id="iframeAudio">
         </iframe> 
-        <script src="https://www.youtube.com/watch?v=LKbzXBEU-lg"></script>
-        <script src="https://www.youtube.com/watch?v=LKbzXBEU-lg"></script>
-        <script src="https://www.youtube.com/watch?v=LKbzXBEU-lg" type="text/javascript"></script>
+        <script src="public/js/anijs-min.js"></script>
+        <script src="public/js/anijs-helper-scrollreveal-min.js"></script>
+        <script src="public/js/flu.js" type="text/javascript"></script>
         <div class="heart " rel="like" style=" height:130px;
             width:130px;">
             <p id="pClick" style="text-align: center;font-size: 10px;margin-bottom: 0px;
@@ -477,7 +505,9 @@
                 } else {
                     //$('#playAudio').remove() //just to make sure that it will not have 2x audio in the background 
                 }
-            });    
+            });
+            
+            
         </script>
     </body>
 </html>
